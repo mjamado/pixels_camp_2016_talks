@@ -24,9 +24,7 @@ It's a collection of little more than a dozen points collected by personal exper
 Speaker Bio
 -----------
 
-Programmer since the ZX Spectrum. Overall tech tinkerer. Massively bearded.
-
-Husband. Father of two girls.
+Programmer since the ZX Spectrum. Overall tech tinkerer. Massively bearded. Husband. Father of two girls.
 
 CTO @ Moloni
 
